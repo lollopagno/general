@@ -1,8 +1,8 @@
 Hi there 👋
-- 👀 I’m interested in computer vision, machile learning and deep learning.
+- 👀 I’m interested in computer vision, machine learning and deep learning.
 - 👉🏻 Developer app android. 
-- 🌱 Student of engineering and computer science at the University of Bologna
-- 👯 I’m looking to collaborate with creative people
+- 🌱 Student of engineering and computer science at the University of Bologna.
+- 👯 I’m looking to collaborate with creative people.
 - ⚡ I Like: Python, Scala, Javascript and always available to learn!
 - 📫 How to reach me lorenzo.pagnini@yahoo.it
 <!---
